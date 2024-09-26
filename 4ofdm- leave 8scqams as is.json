@@ -20,7 +20,7 @@
               },
               "phy-index": 1
             }
-          ],
+           ],
           "slot": [
             {
               "ds-rf-port": [
